@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I am Eshan Mehrotra, currrently pursuing a Master's In Information Systems Management with Business Intelligence and Data Analytics specialization. 
+### I am Eshan Mehrotra, currrently pursuing a Master's In Information Systems Management with Business Intelligence and Data Analytics specialization. :closed_book:
 
-Where you might ask? 
+Where you might ask? :bowtie:
+
 CARNEGIE MELLON UNIVERSITY!
+![Alt Text] (https://www.datasciencedegreeprograms.net/wp-content/uploads/2019/08/carnegie-mellon-university-300x300.png)
+
 YESS CMU! I cannot believe I am at the same place as the Father of Modern Machine Learning - TOM MITCHELL
