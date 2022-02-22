@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **TwistedMat/TwistedMat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### I am Eshan Mehrotra, currrently pursuing a Master's In Information Systems Management with Business Intelligence and Data Analytics specialization. 
+
+Where you might ask? 
+CARNEGIE MELLON UNIVERSITY!
+YESS CMU! I cannot believe I am at the same place as the Father of Modern Machine Learning - TOM MITCHELL
