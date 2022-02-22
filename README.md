@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 Where you might ask? :bowtie:
 
 CARNEGIE MELLON UNIVERSITY!
-![Alt Text] (https://www.datasciencedegreeprograms.net/wp-content/uploads/2019/08/carnegie-mellon-university-300x300.png)
+![CMU Logo](carnegie-mellon-university-300x300.png)
 
 YESS CMU! I cannot believe I am at the same place as the Father of Modern Machine Learning - TOM MITCHELL
