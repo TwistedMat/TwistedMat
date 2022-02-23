@@ -18,11 +18,15 @@ Here are some ideas to get you started:
 ### I am Eshan Mehrotra, currrently pursuing a Master's In Information Systems Management with Business Intelligence and Data Analytics specialization. :mortar_board:
 
 Where you might ask? :bowtie:
-## CARNEGIE MELLON UNIVERSITY! 
-<img src="/images/carnegie-mellon-university-300x300.png" width="150" height="150">
+
+<!-- <img src="/images/carnegie-mellon-university-300x300.png" width="100" height="100"> -->
+
+<img src="/images/cmu-wordmark-horizontal-r.png" width="350" height="40">
+<!-- <img src="/images/CMU_logo_horiz_red.jpg" width="300" height="30"> -->
+<!-- ## CARNEGIE MELLON UNIVERSITY!  -->
 
 YESS **[CMU](https://www.cmu.edu/)**! \
-I cannot believe I am at the same place as the Father of Modern Machine Learning - TOM MITCHELL
+A bit surreal to be in the same room as the Father of Modern Machine Learning - TOM MITCHELL
 
 ---
 ## Who am I really?
@@ -43,3 +47,6 @@ Introduce a little anarchy. Upset the established order, and everything becomes 
  ---
  ## Stay upto date on!
  [![Linkedin Badge](https://img.shields.io/badge/-eshan--mehrotra-blue?logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/eshan-mehrotra/)](https://www.linkedin.com/in/eshan-mehrotra/)
+ [![Insta Badge](https://img.shields.io/badge/-eshan__twistedmat-red?logo=Instagram&logoColor=white&link=https://www.instagram.com/eshan_twistedmat/?hl=en)](https://www.instagram.com/eshan_twistedmat/?hl=en)
+ [![Twitter Badge](https://img.shields.io/badge/-Eshan__twistdmat-white?logo=Twitter&logoColor=blue&link=https://twitter.com/Eshan_twistdmat)](https://twitter.com/Eshan_twistdmat)
+
