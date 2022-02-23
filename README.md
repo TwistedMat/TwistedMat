@@ -22,11 +22,11 @@ Where you might ask? :bowtie:
 
 <!-- <img src="/images/carnegie-mellon-university-300x300.png" width="100" height="100"> -->
 
-<img src="/images/cmu-wordmark-horizontal-r.png" width="350" height="40">
-<!-- <img src="/images/CMU_logo_horiz_red.jpg" width="300" height="30"> -->
+<!-- <img src="/images/cmu-wordmark-horizontal-r.png" width="350" height="40"> -->
+<img src="/images/CMU_logo_horiz_red.jpg" width="350" height="40">
 <!-- ## CARNEGIE MELLON UNIVERSITY!  -->
 
-YESS **[CMU](https://www.cmu.edu/)**! \
+## YESS **[CMU](https://www.cmu.edu/)**! 
 A bit surreal to be in the same room as the Father of Modern Machine Learning - TOM MITCHELL
 
 ---
